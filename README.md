@@ -7,4 +7,4 @@ Use this link to preview email template https://pesukarhutg.github.io/email-onli
 
 Using background-image fixation method email got new action effect.
 
-![](https://github.com/PesukarhuTG/email-onlineForum/blob/master/assets/preview.jpg)
+[![Preview](https://github.com/PesukarhuTG/email-onlineForum/blob/master/assets/preview.jpg)](https://pesukarhutg.github.io/email-onlineForum/)
